@@ -25,7 +25,16 @@ namespace Log_Algo
             //MergeSortProggram abc = new MergeSortProggram();
             //abc.MergeSort();
 
-            PrimeNumBetween1_1000.primeNum();
+            // PrimeNumBetween1_1000.primeNum();
+
+            //Console.WriteLine("Enter String to find Permutation ");
+            //string str = Console.ReadLine();
+            //int n = str.Length;
+            //Permutation.Permutate(str, 0, n - 1);
+
+            Anagram_Plindrom anagram_Plindrom = new Anagram_Plindrom();
+            anagram_Plindrom.CheckPrime();
         }
+
     }
 }
