@@ -14,11 +14,13 @@ namespace DS_Algorithm_Programs
         {
             Console.WriteLine("Welcome to the algorithm problems");
            
-            Insertion_Sort insertion = new Insertion_Sort();
-            insertion.Sorting();
+            //Insertion_Sort insertion = new Insertion_Sort();
+            //insertion.Sorting();
 
             //Bubblesort bubblesort = new Bubblesort();
             //bubblesort.SortingBubble();
+
+            Anagram.Anagram1();
 
 
         }
