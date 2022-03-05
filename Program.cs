@@ -22,8 +22,8 @@ namespace Log_Algo
 
             //Anagram.Anagram1();
 
-            MergeSortProggram abc = new MergeSortProggram();
-            abc.Merge();
+            //MergeSortProggram abc = new MergeSortProggram();
+            //abc.Merge();
 
         }
     }
